@@ -1,0 +1,10 @@
+#contenedor_carga {
+    background-color: #242526ab;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    -webkit-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    transition: all 1s ease;
+    z-index: 10000;
+}
